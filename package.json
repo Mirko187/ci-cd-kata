@@ -3,6 +3,7 @@
  "version": "1.0.0",
  "scripts": {
   "test": "node test.js"
+  "lint": "eslint ."
  },
  "dependencies": {
   "eslint": "^10.13.0"
